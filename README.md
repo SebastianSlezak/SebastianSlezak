@@ -1,12 +1,11 @@
- <img align="right" alt="Coding" width="400" src="C:\Users\Sebastian\Downloads\banner.png">
+<h1>👨‍💻 Sebastian Ślęzak</h1>
 
-# 👨‍💻 Sebastian Ślęzak
-**`Junior Java Developer`**
+<h2>Junior Java Developer</h2>
 
 In progress (Description)
 
 ---
-### 📖 Languages and Tools
+<h2>📖 Languages and Tools</h2>
 
 <p algin="left">
   <img alt="Java" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />&nbsp;&nbsp;
