@@ -25,8 +25,8 @@ In progress (Description)
 ## 📊 Stats
   
 <a href="https://github.com/SebastianSlezak">
-  <img height="169em" src="https://github-readme-stats.vercel.app/api?username=SebastianSlezak&show_icons=true&theme=tokyonight"/>
-  <img height="169em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianSlezak&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="168,5em" src="https://github-readme-stats.vercel.app/api?username=SebastianSlezak&show_icons=true&theme=tokyonight"/>
+  <img height="168,5em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianSlezak&layout=compact&langs_count=7&theme=tokyonight"/>
 </a>
   
 ---
