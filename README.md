@@ -2,9 +2,7 @@
 
 **`Junior Java Developer`**
 
-In progress (Description)
-
----
+I am a Junior Java Developer, on this profile you can see my progression in learning programming. I mainly work on the backend, but have been learning the frontend for a while to develop web applications myself.
 
 ## 📖 Languages and Tools
 
@@ -18,9 +16,7 @@ In progress (Description)
   <img alt="Linux" title="Linux" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />&nbsp;&nbsp;
   <img alt="Html5" title="Html5" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&nbsp;&nbsp;
   <img alt="Css3" title="Css3" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />&nbsp;&nbsp;
-  <img alt="Jira" title="Jira" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />&nbsp;&nbsp;
-  
----         
+  <img alt="Jira" title="Jira" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />&nbsp;&nbsp;        
   
 ## 📊 Stats
   
