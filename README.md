@@ -1,6 +1,6 @@
 # 👨‍💻 Sebastian Ślęzak
 
-## Junior Java Developer
+**`Junior Java Developer`**
 
 In progress (Description)
 
