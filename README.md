@@ -24,11 +24,11 @@ In progress (Description)
   
 ## 📊 Stats
   
-![Sebastian's GitHub stats](https://github-readme-stats.vercel.app/api?username=SebastianSlezak&show_icons=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianSlezak&layout=compact&theme=dark)](https://github.com/SebastianSlezak/github-readme-stats)
-</p>
-
+<a href="https://github.com/SebastianSlezak">
+  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=SebastianSlezak&show_icons=true&theme=dark"/>
+  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianSlezak&layout=compact&theme=dark"/>
+</a>
+  
 ---
 
 ## 🔨 Projects
