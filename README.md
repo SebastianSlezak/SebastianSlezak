@@ -27,5 +27,4 @@ I am a Junior Java Developer, on this profile you can see my progression in lear
 
 ## 🔨 Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SebastianSlezak&repo=library&show_icons=true&theme=tokyonight&layout=black")](https://github.com/SebastianSlezak/library)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SebastianSlezak&repo=CSGOTyper&show_icons=true&theme=tokyonight&layout=black")](https://github.com/SebastianSlezak/CSGOTyper)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SebastianSlezak&repo=AirTrack&show_icons=true&theme=tokyonight&layout=black")](https://github.com/SebastianSlezak/AirTrack)
