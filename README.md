@@ -27,4 +27,4 @@ I am a Junior Java Developer, on this profile you can see my progression in lear
 
 ## 🔨 Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SebastianSlezak&repo=AirTrack&show_icons=true&theme=tokyonight&layout=black")](https://github.com/SebastianSlezak/AirTrack)
+<!--- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SebastianSlezak&repo=AirTrack&show_icons=true&theme=tokyonight&layout=black")](https://github.com/SebastianSlezak/AirTrack) -->
