@@ -22,9 +22,10 @@ I am a Junior Java Developer, on this profile you can see my progression in lear
   
 <a href="https://github.com/SebastianSlezak">
   <img height="168,5em" src="https://github-readme-stats.vercel.app/api?username=SebastianSlezak&show_icons=true&theme=tokyonight"/>
-<!--<img height="168,5em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianSlezak&layout=compact&langs_count=7&theme=tokyonight"/>-->
+  <img height="168,5em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianSlezak&layout=compact&langs_count=7&theme=tokyonight"/>
 </a>
 
 ## 🔨 Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SebastianSlezak&repo=Operating-systems&show_icons=true&theme=tokyonight&layout=black")](https://github.com/SebastianSlezak/Operating-systems)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SebastianSlezak&repo=Slite-clone&show_icons=true&theme=tokyonight&layout=black")](https://github.com/SebastianSlezak/Slite-clone)
