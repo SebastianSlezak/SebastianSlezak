@@ -1,8 +1,8 @@
 # 👨‍💻 Sebastian Ślęzak
 
-<!--**`Junior Java Developer`**
+**`Full-Stack Developer`**
 
-I am a Junior Java Developer, on this profile you can see my progression in learning programming. I mainly work on the backend, but have been learning the frontend for a while to develop web applications myself.-->
+I am a Full-Stack Developer, on this profile you can see my progression in learning programming. I mainly work on the backend, but have been learning the frontend for a while to develop web applications myself.
 
 ## 📖 Languages and Tools
 
