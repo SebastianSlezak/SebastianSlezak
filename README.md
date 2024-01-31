@@ -1,22 +1,12 @@
 # 👨‍💻 Sebastian Ślęzak
 
-**`Junior Java Developer`**
+<!--**`Junior Java Developer`**
 
-I am a Junior Java Developer, on this profile you can see my progression in learning programming. I mainly work on the backend, but have been learning the frontend for a while to develop web applications myself.
+I am a Junior Java Developer, on this profile you can see my progression in learning programming. I mainly work on the backend, but have been learning the frontend for a while to develop web applications myself.-->
 
 ## 📖 Languages and Tools
 
-<p algin="left">
-  <img alt="Java" title="Java" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg?" />&nbsp;&nbsp;
-  <img alt="Springboot" title="Springboot" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg?" />&nbsp;&nbsp;
-  <img alt="Mysql" title="Mysql" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg?" />&nbsp;&nbsp;
-  <img alt="Postgresql" title="Postgresql" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg?"/>&nbsp;&nbsp;
-  <img alt="Git" title="Git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg?" />&nbsp;&nbsp;
-  <img alt="Docker" title="Docker" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg?" />&nbsp;&nbsp;        
-  <img alt="Linux" title="Linux" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg?" />&nbsp;&nbsp;
-  <img alt="Html5" title="Html5" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg?" />&nbsp;&nbsp;
-  <img alt="Css3" title="Css3" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg?" />&nbsp;&nbsp;
-  <img alt="Jira" title="Jira" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg?" />&nbsp;&nbsp;        
+[![My Skills](https://skillicons.dev/icons?i=html,css,c,cpp,linux,postgres,mysql)](https://skillicons.dev)
   
 ## 📊 Stats
 
