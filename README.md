@@ -6,7 +6,7 @@ I am a Full-Stack Developer, on this profile you can see my progression in learn
 
 ## 📖 Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,c,cpp,postgres,mysql,linux,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,c,cpp,postgres,mysql,linux,bash,figma)](https://skillicons.dev)
   
 ## 📊 Stats
 
