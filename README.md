@@ -8,7 +8,7 @@ I am a Full-Stack Developer, on this profile you can see my progression in learn
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,c,cpp,postgres,mysql,linux,bash,figma)](https://skillicons.dev)
   
-## 📊
+## 📊 Stats
 
 <a href="https://github.com/SebastianSlezak">
   <img height="168,5em" src="https://github-readme-stats.vercel.app/api?username=SebastianSlezak&show_icons=true&theme=tokyonight"/>
