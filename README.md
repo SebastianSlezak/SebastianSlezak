@@ -1,12 +1,11 @@
 # 👨‍💻 Sebastian Ślęzak
 
-**`Full-Stack Developer`**
+**`System Engineer`**
 
-I am a Full-Stack Developer, on this profile you can see my progression in learning programming. I mainly work on the backend, but have been learning the frontend for a while to develop web applications myself.
+As a system engineer at ACC Cyfronet AGH, I specialize in managing and optimizing high-performance computing environments, ensuring system reliability, and implementing scalable infrastructure solutions. My expertise spans Linux system administration, log management, automation, and performance tuning for demanding computational tasks.
 
 ## 📖 Languages and Tools
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,c,cpp,postgres,mysql,linux,bash,powershell,figma)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,powershell,bash,vmwareworkstation,elasticsearch)
   
 ## 📊 Stats
 
