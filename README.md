@@ -16,6 +16,7 @@ As a system engineer at ACC Cyfronet AGH, I specialize in managing and optimizin
 
 ## 🔨 Projects
 
+Coming soon...
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SebastianSlezak&repo=Slite-clone&show_icons=true&theme=tokyonight&layout=black?")](https://github.com/SebastianSlezak/Slite-clone)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SebastianSlezak&repo=Employee-Management-System&show_icons=true&theme=tokyonight&layout=black?")](https://github.com/SebastianSlezak/Employee-Management-System)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SebastianSlezak&repo=Operating-systems&show_icons=true&theme=tokyonight&layout=black?")](https://github.com/SebastianSlezak/Operating-systems)
