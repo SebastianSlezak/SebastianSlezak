@@ -2,8 +2,6 @@
 
 **`System Engineer`**
 
-As a system engineer at ACC Cyfronet AGH, I specialize in managing and optimizing high-performance computing environments, ensuring system reliability, and implementing scalable infrastructure solutions. My expertise spans Linux system administration, log management, automation, and performance tuning for demanding computational tasks.
-
 ## 📖 Languages and Tools
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,powershell,bash,vmwareworkstation,elasticsearch)
   
